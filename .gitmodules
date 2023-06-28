@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "missCompare"]
 	path = missCompare
 	url = https://github.com/tirgit/misscompare
-	shallow = true
-	registered = true
